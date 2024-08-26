@@ -34,6 +34,8 @@ Using the Table Transformer model for table detection and structure recognition.
 Applying PaddleOCR to extract text from detected cells.
 Saving the results to a CSV file for easy review and analysis.
 
+
+
 **Contributing**
 If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. We appreciate your help in improving this tool!
 
